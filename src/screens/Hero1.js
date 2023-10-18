@@ -25,7 +25,7 @@ const Hero1 = () => {
               <p className='text-center mt-2   p-2
               
               md:text-1xl sm:text-xl text-[15px] text-neutral-300 '>Howdy, I'm Godsent Oko-ose; <br /> 
-                I'm a Software Engineer </p>
+                I'm a Software Developer </p>
 
             
               <h2 className=' text-center justify-center items-center'> <TypeWriter/> </h2>
